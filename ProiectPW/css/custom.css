@@ -1,0 +1,99 @@
+/* CSS Document */
+
+.bg-black{ background-color: rgba(0,0,0,1.00);}
+
+.carousel-caption{ top:200px}
+
+.bg-orange{background-color:#f0644f; color: aliceblue; font-weight: 600; text-align: center;}
+.m-right{border: 2px solid #f0644f; border-right: 2px solid white;}
+
+.underline{width: 100px; height: 2px; background-color: aliceblue;}
+
+.card{border: none;}
+.bg-light-gray{
+background-image: url('https://wallpaperaccess.com/full/396538.jpg')
+}
+.bg-light-grayy{background-size: contain;
+    background-image: url('https://all4desktop.com/data_images/original/4237533-background-hd.jpg');}
+.bg-light-gray2{background-image: url('https://www.thoughtco.com/thmb/s4Q0LlqOOopx7BY28voM4b7Eo8c=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/marble-941374788-5b16eaa4fa6bcc00369692c7.jpg')}
+.bg-light-gray4{background-image: url('https://m.media-amazon.com/images/I/61j-1aKXH3L._SR500,500_.jpg')} 
+.bg-light-gray5{background-image: url('https://mcdn.wallpapersafari.com/medium/64/97/rcGe3C.png')} 
+.bg-light-gray6{  background-image: url('http://blockchainrecruiting.co/wp-content/uploads/2019/02/white-texture-wallpaper-phpduglistinfo-white-textured-wallpaper-designs.jpg')
+}
+.bg-light-gray8{
+    background-image: url('https://www.larutadelsorigens.cat/filelook/full/3/35233/light-green-wallpaper.jpg')
+}
+.bg-light-gray7{
+    background-size: contain;
+    background-image: url('https://www.expenseanywhere.com/wp-content/uploads/2016/09/website-backgrounds-E280AB1E280AC-E280ABE280AC.jpg');
+}  
+.bg-light-gray3{
+        background-size: contain;
+background-image: url(https://images.unsplash.com/photo-1553851935-cad21b77d358?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80)}
+.media img{ max-width: 120px; height: auto;}
+
+.underline-green{width: 70px; height: 2px; background-color: lawngreen;}
+.underline-blue{width: 70px; height: 2px; background-color: mediumblue;}
+.underline-black{width: 70px; height: 2px; background-color: black;}
+
+.card-body{text-align: center;}
+
+.blog .media img{ max-width: 200px; height: auto;}
+
+footer ul{text-decoration: none; list-style-type: none;}
+
+.scale-up-center{
+    transition: all .9s ease-in-out;
+}
+
+.scale-up-center:hover{transform: scale(1.05);}
+
+.outline{
+    margin-left:-15px;
+    margin-right:-15px;
+    height: 2px;
+    background-color: black;
+}
+.login-left{transition: 2s;
+    border-radius: 15px;
+    background-color: rgba( 255, 255, 255, 0.45);
+    padding: 30px
+}
+.login-left:hover
+{
+    transition: 1.5s;
+    border-radius: 45px;
+    background-color: rgba( 255, 255, 255, 0.80);
+}
+.login-right{transition: 2s;
+    border-radius: 15px;
+    background-color: rgba( 255, 255, 255, 0.45);
+    padding: 30px
+}
+.login-right:hover
+{
+    transition: 1.5s;
+    border-radius: 45px;
+    background-color: rgba( 255, 255, 255, 0.80);
+}
+.form-control{
+    background-color: transparent !important
+}
+
+.fa-shopping-cart:hover{
+    transition: 1.2s;
+    transform: rotate(360deg);
+}
+
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+
+
+
+
